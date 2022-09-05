@@ -1,0 +1,21 @@
+
+6
+
+chay0
+image C:\Users\Admin\OneDrive\Documents\NetBeansProjects\ProjectCuoiKi\src\main\java\data\data1\chay\adventurer-run-00-1.3.png
+
+chay1
+image C:\Users\Admin\OneDrive\Documents\NetBeansProjects\ProjectCuoiKi\src\main\java\data\data1\chay\adventurer-run-01-1.3.png
+
+chay2
+image C:\Users\Admin\OneDrive\Documents\NetBeansProjects\ProjectCuoiKi\src\main\java\data\data1\chay\adventurer-run-02-1.3.png
+
+chay3
+image C:\Users\Admin\OneDrive\Documents\NetBeansProjects\ProjectCuoiKi\src\main\java\data\data1\chay\adventurer-run-03-1.3.png
+
+chay4
+image C:\Users\Admin\OneDrive\Documents\NetBeansProjects\ProjectCuoiKi\src\main\java\data\data1\chay\adventurer-run-04-1.3.png
+
+chay5
+image C:\Users\Admin\OneDrive\Documents\NetBeansProjects\ProjectCuoiKi\src\main\java\data\data1\chay\adventurer-run-05-1.3.png
+				
